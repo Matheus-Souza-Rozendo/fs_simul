@@ -5,6 +5,12 @@
 #include "libdisksimul.h"
 #include "filesystem.h"
 
+
+int soma(int a, int b){
+	return a+b;
+}
+
+
 /**
  * @brief Format disk.
  * 
